@@ -1,6 +1,6 @@
 # HW2 Low-Luminosity Enhancement + Sharpness Enhancement + Denoise
 
-### 演算法  
+**演算法**
 
 - Low-luminosity Enhancement : Histogram Equalization (HE)
 - Sharpness Enhancement : Unsharp Masking
