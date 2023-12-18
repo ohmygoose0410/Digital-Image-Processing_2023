@@ -13,7 +13,7 @@ Digital Still Cameras
 1.  首先打開terminal，並且確保當前路徑是在資料夾的根目錄，執行下面指令，makefile 會自動建立3個資料夾分別為 ``bin``、``dep`` 和 ``obj``
 
     ```bash
-    $ make dir
+    make dir
     ```
 
 2.  接著執行 ``make`` 進行編譯，在bin的資料夾內會出現3個執行檔，分別為 ``main_image_enhancement`` 和 ``main_color_constancy``
@@ -21,13 +21,13 @@ Digital Still Cameras
 3.  若要對影像做白平衡，執行
 
     ```bash
-	$ ./bin/main_color_constancy ./testdata/input*
+	./bin/main_color_constancy ./testdata/input*
     ```
 
 	若要對影像做enhancement，輸入影像為白平衡後的結果，執行
 
     ```bash
-	$ ./bin/main_image_enhancement ./*_1.bmp
+	./bin/main_image_enhancement ./*_1.bmp
     ```
 
 	最後產生得結果會放在根目錄
@@ -35,7 +35,7 @@ Digital Still Cameras
 4.  若要清除所有編譯過後所產生的資料如: ``./bin/*``、``./obj/*.o`` 和 ``./dep/*.d``，請運行
 
     ```bash
-    $ make clean
+    make clean
     ```
 
 ## 結果

@@ -7,7 +7,7 @@
 1.  首先打開terminal，並且確保當前路徑是在資料夾的根目錄，執行下面指令，makefile 會自動建立3個資料夾分別為 ``bin``、``dep`` 和 ``obj``
 
     ```bash
-    $ make dir
+    make dir
     ```
 
 2.  接著執行 ``make`` 進行編譯，在bin的資料夾內會出現3個執行檔，分別為 ``main_flip``、``main_quan`` 和 ``main_scaling``
@@ -15,19 +15,19 @@
 3.  若要對影像做翻轉，運行
 
     ```bash
-	$ ./bin/main_flip ./testdata/input1.bmp ./testdata/input2.bmp
+	./bin/main_flip ./testdata/input1.bmp ./testdata/input2.bmp
     ```
 
 	若要對影像做quantization，運行
 
     ```bash
-	$ ./bin/main_quan ./testdata/input1.bmp ./testdata/input2.bmp
+	./bin/main_quan ./testdata/input1.bmp ./testdata/input2.bmp
     ```
 
 	若要對影像做縮放，運行
 
     ```bash
-	$ ./bin/main_scaling ./testdata/input1.bmp ./testdata/input2.bmp
+	./bin/main_scaling ./testdata/input1.bmp ./testdata/input2.bmp
     ```
 
 	最後產生得結果會放在根目錄
@@ -35,7 +35,7 @@
 4.  若要清除所有編譯過後所產生的資料如: ``./bin/*``、``./obj/*.o`` 和 ``./dep/*.d``，請運行
 
     ```bash
-    $ make clean
+    make clean
     ```
 
 ## 結果
