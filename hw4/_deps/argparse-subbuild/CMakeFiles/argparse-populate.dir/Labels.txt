@@ -1,0 +1,14 @@
+# Target labels
+ argparse-populate
+# Source files and their labels
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/CMakeFiles/argparse-populate
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/CMakeFiles/argparse-populate.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/CMakeFiles/argparse-populate-complete.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test.rule
+/mnt/d/DIP/src/Digital-Image-Processing_2023/hw4_311833007/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update.rule
